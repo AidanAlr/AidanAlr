@@ -38,7 +38,7 @@
 
 |Title | Stars | Technologies|
 |--|--|--|
-| [Alpaca-Pairs-Trading-Terminal](https://github.com/AidanAlr/Alpaca-Pairs-Trading-Terminal) | <img alt="Stars" src="https://img.shields.io/github/stars/AidanAlr/Alpaca-Pairs-Trading-Terminal?style=flat-square&labelColor=black"/> | ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)|
+| [Alpaca-Pairs-Trading-Terminal](https://github.com/AidanAlr/Alpaca-Pairs-Trading-Terminal) | <img alt="Stars" src="https://img.shields.io/github/stars/AidanAlr/Alpaca-Pairs-Trading-Terminal?style=flat-square&labelColor=black"/> | ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)|
 
 
 </td><td>
