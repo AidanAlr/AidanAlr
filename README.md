@@ -6,7 +6,7 @@
 <a href="https://aidanalr.dev">
     <img src="https://img.shields.io/badge/Website-aidanalr.dev-red?style=flat-square">
 </a>  
-<a href="https://aidanalr.dev/Resume.pdf](https://www.aidanalr.dev/static/CV.95884c73a84a.pdf">
+<a href="https://www.aidanalr.dev/static/CV.95884c73a84a.pdf">
     <img src="https://img.shields.io/badge/PDF-CV-red?style=flat-square&logo=adobe">
 </a>  
 <a href="https://www.linkedin.com/in/aidanalrawi">
