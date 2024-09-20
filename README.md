@@ -16,10 +16,6 @@
     <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white">
 </a>
 
-<a href="https://pypi.org/user/drkostas/">
-    <img src="https://img.shields.io/badge/PyPi-drkostas-blue?style=flat-square&logo=pypi&logoColor=white">
-</a>
-
 
 <br/> 
 
