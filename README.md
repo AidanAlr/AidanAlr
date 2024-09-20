@@ -67,8 +67,6 @@
 </td></tr> </table>
 
 <h2>📈Stats</h2>
-<br>
-My Github Stats
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aidanalr&theme=dracula) 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aidanalr&theme=dracula) 
