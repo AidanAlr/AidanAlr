@@ -32,6 +32,7 @@
 |--|--|--|
 | [MIPS CPU Pipeline](https://github.com/AidanAlr/MIPS-CPU-Pipeline) | <img alt="Stars" src="https://img.shields.io/github/stars/AidanAlr/MIPS-CPU-Pipeline?style=flat-square&labelColor=black"/> | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) |
 | [Python-Cache-Simulation](https://github.com/AidanAlr/Python-Cache-Simulation) | <img alt="Stars" src="https://img.shields.io/github/stars/AidanAlr/Python-Cache-Simulation?style=flat-square&labelColor=black"/> | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) |
+| [Swing-Password-Manager](https://github.com/AidanAlr/Swing-Password-Manager) | <img alt="Stars" src="https://img.shields.io/github/stars/AidanAlr/Swing-Password-Manager?style=flat-square&labelColor=black"/> | ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) |
 </td></tr> </table>
 
 <table>
