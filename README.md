@@ -41,6 +41,7 @@
 |Title | Stars | Technologies|
 |--|--|--|
 | [soundcharts-api-playlist-bot-public](https://github.com/AidanAlr/soundcharts-api-playlist-bot-public) | <img alt="Stars" src="https://img.shields.io/github/stars/AidanAlr/soundcharts-api-playlist-bot-public?style=flat-square&labelColor=black"/> | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) |
+| [Multithreaded-Soundcharts-Webscraper](https://github.com/AidanAlr/Multithreaded-Soundcharts-Webscraper) | <img alt="Stars" src="https://img.shields.io/github/stars/AidanAlr/Multithreaded-Soundcharts-Webscraper?style=flat-square&labelColor=black"/> | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) |
 | [Tournament-Prize-Payout-Generator](https://github.com/AidanAlr/Tournament-Prize-Payout-Generator) | <img alt="Stars" src="https://img.shields.io/github/stars/AidanAlr/Tournament-Prize-Payout-Generator?style=flat-square&labelColor=black"/> | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) |
 
 
