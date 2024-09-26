@@ -31,6 +31,7 @@
 |Title | Stars | Technologies|
 |--|--|--|
 | [MIPS CPU Pipeline](https://github.com/AidanAlr/MIPS-CPU-Pipeline) | <img alt="Stars" src="https://img.shields.io/github/stars/AidanAlr/MIPS-CPU-Pipeline?style=flat-square&labelColor=black"/> | [![SQLPyPi](https://img.shields.io/badge/PyPi-black?style=flat-square&logo=pypi)](https://pypi.org/project/high-sql/)  |
+| [Python-Cache-Simulation](https://github.com/AidanAlr/Python-Cache-Simulation) | <img alt="Stars" src="https://img.shields.io/github/stars/AidanAlr/Python-Cache-Simulation?style=flat-square&labelColor=black"/> | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) |
 </td></tr> </table>
 
 <table>
@@ -39,13 +40,15 @@
 
 |Title | Stars | Technologies|
 |--|--|--|
-
+| [soundcharts-api-playlist-bot-public](https://github.com/AidanAlr/soundcharts-api-playlist-bot-public) | <img alt="Stars" src="https://img.shields.io/github/stars/AidanAlr/soundcharts-api-playlist-bot-public?style=flat-square&labelColor=black"/> | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) |
+| [Tournament-Prize-Payout-Generator](https://github.com/AidanAlr/Tournament-Prize-Payout-Generator) | <img alt="Stars" src="https://img.shields.io/github/stars/AidanAlr/Tournament-Prize-Payout-Generator?style=flat-square&labelColor=black"/> | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) |
 
 
 </td><td>
 
 |Title | Stars | Technologies|
 |--|--|--|
+| [homegamepayoutapp](https://github.com/AidanAlr/homegamepayoutapp) | <img alt="Stars" src="https://img.shields.io/github/stars/AidanAlr/homegamepayoutapp?style=flat-square&labelColor=black"/> | ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) |
 
 
 
