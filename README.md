@@ -30,7 +30,7 @@
 
 |Title | Stars | Technologies|
 |--|--|--|
-| [MIPS CPU Pipeline](https://github.com/AidanAlr/MIPS-CPU-Pipeline) | <img alt="Stars" src="https://img.shields.io/github/stars/AidanAlr/MIPS-CPU-Pipeline?style=flat-square&labelColor=black"/> | [![SQLPyPi](https://img.shields.io/badge/PyPi-black?style=flat-square&logo=pypi)](https://pypi.org/project/high-sql/)  |
+| [MIPS CPU Pipeline](https://github.com/AidanAlr/MIPS-CPU-Pipeline) | <img alt="Stars" src="https://img.shields.io/github/stars/AidanAlr/MIPS-CPU-Pipeline?style=flat-square&labelColor=black"/> | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) |
 | [Python-Cache-Simulation](https://github.com/AidanAlr/Python-Cache-Simulation) | <img alt="Stars" src="https://img.shields.io/github/stars/AidanAlr/Python-Cache-Simulation?style=flat-square&labelColor=black"/> | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) |
 </td></tr> </table>
 
