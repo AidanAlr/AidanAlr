@@ -63,8 +63,9 @@
 
 | Package Name | Downloads | Description |
 |--------------|-----------|-------------|
-| [soundchartspy](https://pypi.org/project/soundchartspy/) | ![Downloads](https://img.shields.io/pypi/dm/soundchartspy.svg) | Python wrapper enabling easier pythonic interaction with the SoundCharts API. |
+| [soundchartspy](https://pypi.org/project/soundchartspy/) | ![PyPI - Downloads](https://img.shields.io/pypi/dm/soundchartspy)| Python wrapper enabling easier pythonic interaction with the SoundCharts API. |
 </td>
+
 </tr>
 </table>
 
