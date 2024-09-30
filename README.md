@@ -1,8 +1,4 @@
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=1000&color=00E5F7&center=true&vCenter=true&multiline=true&width=435&height=100&lines=Aidan+Alrawi;" alt="Typing SVG" /></a>
-</p>
-
-<p align="center">
   <a href="https://aidanalr.dev"><img src="https://img.shields.io/badge/Website-aidanalr.dev-red?style=flat-square"></a>  
   <a href="https://www.aidanalr.dev/static/CV.95884c73a84a.pdf"><img src="https://img.shields.io/badge/PDF-CV-red?style=flat-square&logo=adobe"></a>  
   <a href="https://www.linkedin.com/in/aidanalrawi"><img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin"></a>
@@ -14,6 +10,7 @@
     <img src="https://github-stats-alpha.vercel.app/api?username=aidanalr&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
   </a>
 </p>
+
 
 ## 👨‍🎓 About Me
 
