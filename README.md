@@ -11,7 +11,6 @@
   </a>
 </p>
 
-
 ## 👨‍🎓 About Me
 
 - 📖 Pursuing MS in Computer Science @ [Boston University](https://www.bu.edu/met/degrees-certificates/ms-computer-science/)
@@ -33,6 +32,30 @@
 </td>
 <td width="50%">
 
+### Pip Packages
+
+| Package Name | Downloads | Description |
+|--------------|-----------|-------------|
+| [soundchartspy](https://github.com/aidanalr/soundchartspy/) | ![PyPI - Downloads](https://img.shields.io/pypi/dm/soundchartspy)| Wrapper package enabling more pythonic interaction with the SoundCharts API. |
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+  
+### Coursework Projects
+
+| Title | Technologies |
+|-------|--------------|
+| [MIPS CPU Pipeline](https://github.com/AidanAlr/MIPS-CPU-Pipeline) | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) |
+| [Python-Cache-Simulation](https://github.com/AidanAlr/Python-Cache-Simulation) | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) |
+| [Swing-Password-Manager](https://github.com/AidanAlr/Swing-Password-Manager) | ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) |
+
+</td>
+<td width="50%">
+
+
 ### Freelance Projects
 
 | Title | Stars | Technologies |
@@ -40,29 +63,9 @@
 | [soundcharts-api-playlist-bot-public](https://github.com/AidanAlr/soundcharts-api-playlist-bot-public) | <img alt="Stars" src="https://img.shields.io/github/stars/AidanAlr/soundcharts-api-playlist-bot-public?style=flat-square&labelColor=black"/> | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) |
 | [Multithreaded-Soundcharts-Webscraper](https://github.com/AidanAlr/Multithreaded-Soundcharts-Webscraper) | <img alt="Stars" src="https://img.shields.io/github/stars/AidanAlr/Multithreaded-Soundcharts-Webscraper?style=flat-square&labelColor=black"/> | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) |
 
-</td>
-</tr>
-<tr>
-<td width="50%">
 
-### Coursework Projects
-
-| Title | Stars | Technologies |
-|-------|-------|--------------|
-| [MIPS CPU Pipeline](https://github.com/AidanAlr/MIPS-CPU-Pipeline) | <img alt="Stars" src="https://img.shields.io/github/stars/AidanAlr/MIPS-CPU-Pipeline?style=flat-square&labelColor=black"/> | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) |
-| [Python-Cache-Simulation](https://github.com/AidanAlr/Python-Cache-Simulation) | <img alt="Stars" src="https://img.shields.io/github/stars/AidanAlr/Python-Cache-Simulation?style=flat-square&labelColor=black"/> | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) |
-| [Swing-Password-Manager](https://github.com/AidanAlr/Swing-Password-Manager) | <img alt="Stars" src="https://img.shields.io/github/stars/AidanAlr/Swing-Password-Manager?style=flat-square&labelColor=black"/> | ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) |
 
 </td>
-<td width="50%">
-
-### Pip Packages
-
-| Package Name | Downloads | Description |
-|--------------|-----------|-------------|
-| [soundchartspy](https://github.com/aidanalr/soundchartspy/) | ![PyPI - Downloads](https://img.shields.io/pypi/dm/soundchartspy)| Python wrapper enabling easier pythonic interaction with the SoundCharts API. |
-</td>
-
 </tr>
 </table>
 
