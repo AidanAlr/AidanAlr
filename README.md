@@ -57,12 +57,11 @@
 
 
 ### Freelance Projects
-
-| Title | Stars | Technologies |
-|-------|-------|--------------|
-| [Tournament-Prize-Payout-Generator](https://github.com/AidanAlr/Tournament-Prize-Payout-Generator) | <img alt="Stars" src="https://img.shields.io/github/stars/AidanAlr/Tournament-Prize-Payout-Generator?style=flat-square&labelColor=black"/> | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) |
-| [soundcharts-api-playlist-bot-public](https://github.com/AidanAlr/soundcharts-api-playlist-bot-public) | <img alt="Stars" src="https://img.shields.io/github/stars/AidanAlr/soundcharts-api-playlist-bot-public?style=flat-square&labelColor=black"/> | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) |
-| [Multithreaded-Soundcharts-Webscraper](https://github.com/AidanAlr/Multithreaded-Soundcharts-Webscraper) | <img alt="Stars" src="https://img.shields.io/github/stars/AidanAlr/Multithreaded-Soundcharts-Webscraper?style=flat-square&labelColor=black"/> | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) |
+| Title | Technologies | Description |
+|-------|--------------|-------------|
+| [zonevid.com](https://zonevid.com) | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) | A web platform for efficient TikTok content management and distribution.|
+| [Tournament-Prize-Payout-Generator](https://github.com/AidanAlr/Tournament-Prize-Payout-Generator) | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | A Python tool that automatically calculates and distributes tournament prize pools. |
+| [Multithreaded-Soundcharts-Webscraper](https://github.com/AidanAlr/Multithreaded-Soundcharts-Webscraper) | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) | High-performance web scraper for extracting music industry analytics data. |
 
 
 
