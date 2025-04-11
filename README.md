@@ -32,10 +32,11 @@
 </td>
 <td width="50%">
 
-### Pip Packages
+### OpenSource
 
 | Package Name | Downloads | Description |
 |--------------|-----------|-------------|
+| [daily-bible.nvim](https://github.com/aidanalr/daily-bible.nvim/) | ![GitHub Repo stars](https://img.shields.io/github/stars/AidanAlr/daily-bible.nvim)| Neovim plugin that displays a daily bible verse. |
 | [soundchartspy](https://github.com/aidanalr/soundchartspy/) | ![PyPI - Downloads](https://img.shields.io/pypi/dm/soundchartspy)| Wrapper package enabling more pythonic interaction with the SoundCharts API. |
 
 </td>
