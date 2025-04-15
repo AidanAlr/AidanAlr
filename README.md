@@ -14,7 +14,7 @@
 ## 👨‍🎓 About Me
 
 - 📖 Pursuing MS in Computer Science @ [Boston University](https://www.bu.edu/met/degrees-certificates/ms-computer-science/)
-- 💻 Currently building [prismpms.com](https://www.prismpms.com/) with Django and React
+- 💻 Currently building [prismpms](https://www.prismpms.com/) with Django and React
 
 ## 🖥️ Projects
 
