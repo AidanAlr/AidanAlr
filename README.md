@@ -49,6 +49,7 @@
 
 | Title | Technologies |
 |-------|--------------|
+| [devfi](https://github.com/AidanAlr/devfi) | ![golang](https://img.shields.io/badge/Go-00ADD8?logo=Go&logoColor=white&style=for-the-badge)|
 | [Godot Wizard Quest Game](https://github.com/AidanAlr/wizard-quest-godot) | ![Godot Engine](https://img.shields.io/badge/Godot%20Engine-478CBF?logo=godotengine&logoColor=fff&style=flat) ![GDScript](https://img.shields.io/badge/GDScript-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white) |
 | [MIPS CPU Pipeline](https://github.com/AidanAlr/MIPS-CPU-Pipeline) | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) |
 | [Python-Cache-Simulation](https://github.com/AidanAlr/Python-Cache-Simulation) | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) |
