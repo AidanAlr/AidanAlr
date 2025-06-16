@@ -52,8 +52,8 @@
 | [MIPS CPU Pipeline](https://github.com/AidanAlr/MIPS-CPU-Pipeline) | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) |
 | [Python-Cache-Simulation](https://github.com/AidanAlr/Python-Cache-Simulation) | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) |
 | [Swing-Password-Manager](https://github.com/AidanAlr/Swing-Password-Manager) | ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) |
+| [Dota Machine Learning Kaggle Competition](https://github.com/AidanAlr/dota2kaggle) | ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)|
 </tr>
-
 <tr>  
 
 ### Freelance Projects
