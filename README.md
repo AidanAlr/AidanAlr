@@ -1,6 +1,4 @@
 <p align="center">
-  <a href="https://aidanalr.dev"><img src="https://img.shields.io/badge/Website-aidanalr.dev-red?style=flat-square"></a>  
-  <a href="https://www.aidanalr.dev/static/CV.95884c73a84a.pdf"><img src="https://img.shields.io/badge/PDF-CV-red?style=flat-square&logo=adobe"></a>  
   <a href="https://www.linkedin.com/in/aidanalrawi"><img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin"></a>
   <a href="mailto:aidanalrawi@icloud.com"><img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white"></a>
 </p>
