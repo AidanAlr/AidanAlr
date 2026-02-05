@@ -11,9 +11,10 @@
 
 ## 👨‍🎓 About Me
 
-- 📖 Pursuing MS in Computer Science @ [Boston University](https://www.bu.edu/met/degrees-certificates/ms-computer-science/)
-- 💻 Lead Dev [noisy.la](https://noisy.la/)
-- 💻 Currently building [prismpms](https://www.prismpms.com/) with Django and React
+- 💻 Founder + Full Stack Dev @ [noisy.la](https://noisy.la/)
+- 💻 Founder + Backend Dev @ [prismpms](https://www.prismpms.com/)
+- 📖 MS in Computer Science @ [Boston University](https://www.bu.edu/met/degrees-certificates/ms-computer-science/)
+
 
 ## 🖥️ Projects
 
