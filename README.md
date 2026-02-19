@@ -28,14 +28,6 @@
 |-------|-------|--------------|
 | [Alpaca-Pairs-Trading-Terminal](https://github.com/AidanAlr/Alpaca-Pairs-Trading-Terminal) | <img alt="Stars" src="https://img.shields.io/github/stars/AidanAlr/Alpaca-Pairs-Trading-Terminal?style=flat-square&labelColor=black"/> | ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) |
 | [homegamepayoutapp](https://github.com/AidanAlr/homegamepayoutapp) | <img alt="Stars" src="https://img.shields.io/github/stars/AidanAlr/homegamepayoutapp?style=flat-square&labelColor=black"/> | ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) |
-</tr>
-
-<tr>
-  
-### OpenSource
-
-| Package Name | Downloads | Description |
-|--------------|-----------|-------------|
 | [daily-bible.nvim](https://github.com/aidanalr/daily-bible.nvim/) | ![GitHub Repo stars](https://img.shields.io/github/stars/AidanAlr/daily-bible.nvim)| Neovim plugin that displays a daily bible verse. |
 | [soundchartspy](https://github.com/aidanalr/soundchartspy/) | ![PyPI - Downloads](https://img.shields.io/pypi/dm/soundchartspy)| Wrapper package enabling more pythonic interaction with the SoundCharts API. |
 
