@@ -11,8 +11,8 @@
 
 ## 👨‍🎓 About Me
 
-- 💻 Founder + Full Stack Dev @ [noisy.la](https://noisy.la/)
-- 💻 Founder + Backend Dev @ [prismpms](https://www.prismpms.com/)
+- 💻 Founder @ [noisy.la](https://noisy.la/)
+- 💻 Founder @ [prismpms](https://www.prismpms.com/)
 - 📖 MS in Computer Science @ [Boston University](https://www.bu.edu/met/degrees-certificates/ms-computer-science/)
 
 
