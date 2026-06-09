@@ -11,8 +11,6 @@
 
 ## 👨‍🎓 About Me
 
-- 💻 Founder @ [noisy.la](https://noisy.la/)
-- 💻 Founder @ [prismpms](https://www.prismpms.com/)
 - 📖 MS in Computer Science @ [Boston University](https://www.bu.edu/met/degrees-certificates/ms-computer-science/)
 
 
