@@ -3,11 +3,12 @@
   <a href="mailto:aidanalrawi@icloud.com"><img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white"></a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/aidanalr">
-    <img src="https://github-stats-alpha.vercel.app/api?username=aidanalr&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
-  </a>
-</p>
+## 📈 GitHub Stats
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aidanalr&theme=dracula) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aidanalr&theme=dracula) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aidanalr&theme=dracula)
+
 
 ## 👨‍🎓 About Me
 
@@ -59,8 +60,3 @@
 
 </table>
 
-## 📈 GitHub Stats
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aidanalr&theme=dracula) 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aidanalr&theme=dracula) 
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aidanalr&theme=dracula)
