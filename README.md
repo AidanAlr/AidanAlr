@@ -1,8 +1,3 @@
-<p align="center">
-  <a href="https://www.linkedin.com/in/aidanalrawi"><img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin"></a>
-  <a href="mailto:aidanalrawi@icloud.com"><img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white"></a>
-</p>
-
 ## 👨‍🎓 About Me
 - 📖 MS in Computer Science @ [Boston University](https://www.bu.edu/met/degrees-certificates/ms-computer-science/)
 
