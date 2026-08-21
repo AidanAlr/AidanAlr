@@ -3,17 +3,13 @@
   <a href="mailto:aidanalrawi@icloud.com"><img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white"></a>
 </p>
 
-## 📈 GitHub Stats
+## 👨‍🎓 About Me
+- 📖 MS in Computer Science @ [Boston University](https://www.bu.edu/met/degrees-certificates/ms-computer-science/)
 
+## 📈 GitHub Stats
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aidanalr&theme=dracula) 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aidanalr&theme=dracula) 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aidanalr&theme=dracula)
-
-
-## 👨‍🎓 About Me
-
-- 📖 MS in Computer Science @ [Boston University](https://www.bu.edu/met/degrees-certificates/ms-computer-science/)
-
 
 ## 🖥️ Projects
 
